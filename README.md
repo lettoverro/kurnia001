@@ -1,1 +1,1 @@
-A simple HTML/JS/CSS starter template
+My HTML Project
